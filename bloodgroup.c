@@ -5,7 +5,7 @@ void main()
   int i;
   do
   {
-    printf("What is your Crewmate Name? ");
+    printf("What is your Student ID? ");
     scanf("%s", Name);
     do
     {
